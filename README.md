@@ -1,1 +1,1 @@
-# Chat make on Python using socket for communication between server and client.
+# Chat made with python using socket for communication between server and client.
